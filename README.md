@@ -1,1 +1,1 @@
-# Here is some code exercise
+# code exercise
